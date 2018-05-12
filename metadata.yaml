@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '33592'
     url: http://www.gutenberg.org/2009/agents/33592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28931#In-the-Musgrave-Ranges
 gutenberg_issued: '2009-05-22'
 gutenberg_type: Text
 identifiers:

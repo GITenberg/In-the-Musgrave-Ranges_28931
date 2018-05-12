@@ -1,0 +1,29 @@
+_repo: In-the-Musgrave-Ranges_28931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sayce, Conrad H. (Conrad Harvey)
+    aliases:
+    - Bushman, Jim
+    - Sayce, Conrad Harvey
+    birthdate: 1888
+    deathdate: 1935
+    gutenberg_agent_id: '33592'
+    url: http://www.gutenberg.org/2009/agents/33592
+description: ''
+gutenberg_issued: '2009-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcc 'PZ'
+title: In the Musgrave Ranges
+url: http://www.gutenberg.org/ebooks/28931
